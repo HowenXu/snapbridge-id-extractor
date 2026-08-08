@@ -1,5 +1,7 @@
 # snapbridge-id-extractor
 
+> English README: [README_EN.md](README_EN.md)
+
 自动恢复尼康相机中已存储的 **SnapBridge 设备标识**（DeviceID），使第三方 App 可以无缝切换为 SnapBridge 连接相机，无需在相机和手机上反复删除配对记录。
 
 本算法被 [nsg - 尼康智能 GPS（安卓版）](https://github.com/HowenXu/nsg) 使用：当相机已有 SnapBridge 配对记录时，App 会自动运行该算法破解标识并连接。
